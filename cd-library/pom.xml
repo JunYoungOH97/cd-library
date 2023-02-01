@@ -6,7 +6,15 @@
 
     <groupId>com.github.JunYoungOH97</groupId>
     <artifactId>cd-library</artifactId>
-    <version>v0.0.7</version>
+    <version>v0.0.8</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
