@@ -3,8 +3,8 @@ plugins {
     id 'maven-publish'
 }
 
-group 'com.github.Oh-JunYoung'
-version 'v0.0.5'
+group 'com.github.JunYoungOH97'
+version 'v0.0.6'
 
 repositories {
     mavenCentral()
